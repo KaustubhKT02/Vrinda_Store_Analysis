@@ -18,3 +18,5 @@ This project provides an in-depth analysis of Vrinda Store's sales data for the 
 - **Target Audience**: Focus on women aged 30-49 in Maharashtra, Karnataka, and Uttar Pradesh.
 - **Sales Channels**: Utilize popular sales channels like Amazon, Flipkart, and Myntra for promotions, ads, offers, and coupons.
 
+![Dashbord](https://github.com/user-attachments/assets/20feb10c-3753-422b-a753-d8c005274e56)
+
